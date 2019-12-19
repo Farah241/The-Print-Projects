@@ -1,4 +1,4 @@
-ppublic class Mokateers {
+public class Mokateers {
   private int employeeId;
   private String name;
   private long salary;
